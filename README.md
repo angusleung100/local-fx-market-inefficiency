@@ -24,6 +24,9 @@ The goal of this project is to show opportunities due to less efficient market c
 
 We will be doing our experiment and analysis using currency exchange as the data is easier to access than prices for certain products over time.
 
+### Project Notebook View
+[Jupyter Notebook Viewer](https://nbviewer.org/github/angusleung100/local-fx-market-inefficiency/blob/master/local-fx-market-inefficiency.ipynb)
+
 #### Notes:
 This project does not encourage arbitrage using retail currency exchange desks. There are AML and regulations around this and this is only to show the presence of an inefficient sub-market. In other words, do not actually try this in real life. FX shops will also be anonymous and data sources stripped of names.
 
